@@ -15,9 +15,9 @@ main() {
   num thirdNumber = secondNumber;
   firstNumber = 90; //update firstNumber
 
-  // print(firstNumber);
-  // print(secondNumber);
-  // print(thirdNumber);
+  print(firstNumber);
+  print(secondNumber);
+  print(thirdNumber);
 
   //integer type variable
 
@@ -26,11 +26,9 @@ main() {
   int integer = simpleInteger;
   // int anotherInteger = 90.45;  //show error
 
-  /*
   print(simpleInteger);
   print(hex);
   print(integer);
-  */
 
   //double/floating number:
 
