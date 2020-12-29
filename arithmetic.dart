@@ -19,7 +19,9 @@ main() {
 
   var prefixDecrement = 30;
   print(--prefixDecrement);
-  var postDecrement = 67;
-  print(postDecrement--);
-  print(postDecrement);
+
+  var decrementPost = 67;
+
+  print(decrementPost--);
+  print(decrementPost);
 }
