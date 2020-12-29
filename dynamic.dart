@@ -3,4 +3,6 @@ main() {
   print(dynamicVariable);
   dynamicVariable = 34;
   print(dynamicVariable);
+  dynamicVariable = true;
+  print(dynamicVariable);
 }
